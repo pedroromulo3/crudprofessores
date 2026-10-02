@@ -8,5 +8,15 @@
       "data_nascimento": "2007-05-14",
       "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
     }
+  ],
+  "Professor": [
+    {
+      "id": 2,
+      "nome": "PR",
+      "email": "PR@email.com",
+      "cpf": "677.677.677-67",
+      "data_nascimento": "2000-03-20",
+      "endereco": "Rua das Flores, 67 - Pau dos Ferros/RN"
+    }
   ]
 }
